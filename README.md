@@ -14,7 +14,7 @@
 
   ## Installation
   
-  Download the starter code from Github https://github.com/cverges1/README-Generator then run "npm i" in the terminal to install the inquirer package.
+  Download the starter code from Github https://github.com/cverges1/README-Generator then run "npm i" in the terminal to install the inquirer package.
   
   ## Usage
   
