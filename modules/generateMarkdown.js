@@ -76,8 +76,8 @@ function generateMarkdown(data) {
   
   ## Credits
   
-  Collaborators: ${data.collaborators}
-  Third Party Assets: ${data.assets}
+  - Collaborators: ${data.collaborators}
+  - Third Party Assets: ${data.assets}
 
   ## Questions
   To contact me with additional questions:
